@@ -1,29 +1,28 @@
 # 👋 Hi, I'm Rajah Renzuken Lamsen
 
-### 💻 BS Information Technology Student | Aspiring Developer | Database Enthusiast
+### BS Information Technology Student | Aspiring Developer | Database Enthusiast
 
 Passionate about building efficient systems, solving complex problems, and continuously learning new technologies.  
 Currently pursuing a **Bachelor of Science in Information Technology** at **New Era University**, where I continue to strengthen my skills in software development, databases, and web technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 -  BS Information Technology Student at **New Era University**
 -  Interested in Software Development, Databases, and Web Technologies
--  Enjoy creating clean, functional, and user-friendly applications
 -  Continuously exploring new tools and programming languages
 -  Open to collaboration and learning opportunities
 
 ---
 
-## 🎓 Education
+##  Education
 ### **Bachelor of Science in Information Technology**
 📍 New Era University  
 🗓️ 2024 - Present
 
 ---
 
-## 📜 Certifications
+##  Certification
 - 🔗 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/0a323bb2152f459a8b8a91e3f5d2bd24)
 
 ---
@@ -35,8 +34,6 @@ Currently pursuing a **Bachelor of Science in Information Technology** at **New 
 - JavaScript
 - PHP
 - Python
-- C++
-- C
 
 ## 🗄️ Databases
 - IBM DB2 Cloud
