@@ -57,11 +57,5 @@ Currently pursuing a **Bachelor of Science in Information Technology** at **New 
 
 ## 📫 Connect With Me
 - 📧 Email: **ovvtdoha@gmail.com**
-
----
-
-## ⚡ Fun Fact
-> “Programming isn't about what you know; it's about what you can figure out.” – Chris Pine
-
 ---
 ⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
