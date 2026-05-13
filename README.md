@@ -8,25 +8,23 @@ Currently pursuing a **Bachelor of Science in Information Technology** at **New 
 ---
 
 ## 🚀 About Me
-- 🎓 BS Information Technology Student at **New Era University**
-- 💡 Interested in Software Development, Databases, and Web Technologies
-- 🛠️ Enjoy creating clean, functional, and user-friendly applications
-- 📚 Continuously exploring new tools and programming languages
-- 🤝 Open to collaboration and learning opportunities
+-  BS Information Technology Student at **New Era University**
+-  Interested in Software Development, Databases, and Web Technologies
+-  Enjoy creating clean, functional, and user-friendly applications
+-  Continuously exploring new tools and programming languages
+-  Open to collaboration and learning opportunities
 
 ---
 
 ## 🎓 Education
 ### **Bachelor of Science in Information Technology**
 📍 New Era University  
-🗓️ 2021 - Present
+🗓️ 2024 - Present
 
 ---
 
 ## 📜 Certifications
-- 🔗 [NoSQL and DBaaS 101](https://education.oracle.com/)
-- 🔗 [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-certified-foundations-associate/trackp_956)
-- 🔗 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-certified-foundations-associate/trackp_900)
+- 🔗 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/0a323bb2152f459a8b8a91e3f5d2bd24)
 
 ---
 
@@ -61,7 +59,6 @@ Currently pursuing a **Bachelor of Science in Information Technology** at **New 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [LinkedIn Profile Link](https://linkedin.com/)
 - 📧 Email: **ovvtdoha@gmail.com**
 
 ---
