@@ -23,20 +23,30 @@ New Era University
 
 ## 💻 Skill Sets
 
-### Programming
-- Java
-- JavaScript
+##Programming
+Java
+JavaScript
+PHP
+Python
+C++
+C
 
-### Databases
-- IBM DB2 Cloud
+##Databases
+IBM DB2 Cloud
+MongoDB
+MySQL
+Web Development
+HTML
+CSS
+React Native (Basic)
 
-### Tools
-- Lucidchart
-- Jaspersoft Studio
-- Eclipse
-- HTML
-
----
+##Tools
+Lucidchart
+Eclipse
+Git & Github
+XAMPP
+Laragon
+Figma
 
 ## 📫 Connect with Me
 - LinkedIn: [LinkedIn Profile Link](https://linkedin.com/)
