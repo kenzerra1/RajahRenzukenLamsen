@@ -2,8 +2,8 @@
 
 ### BS Information Technology Student | Aspiring Developer | Database Enthusiast
 
-Passionate about building efficient systems, solving complex problems, and continuously learning new technologies.  
-Currently pursuing a **Bachelor of Science in Information Technology** at **New Era University**, where I continue to strengthen my skills in software development, databases, and web technologies.
+Enthusiastic about constructing systems, solving difficult problems, and constantly learning new technologies.
+Presently taking up Bachelor of Science in Information Technology at **New Era University**, which further develops my abilities in software engineering, database management, and web technologies.
 
 ---
 
